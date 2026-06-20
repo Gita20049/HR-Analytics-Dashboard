@@ -172,7 +172,7 @@ HR-Analytics-Dashboard
 1. Clone this repository.
 
 ```
-git clone https://github.com/YOUR_USERNAME/HR-Analytics-Dashboard.git
+git clone https://github.com/Gita20049/HR-Analytics-Dashboard.git
 ```
 
 2. Open the **PowerBI** folder.
