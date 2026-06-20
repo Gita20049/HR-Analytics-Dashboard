@@ -75,6 +75,14 @@ This dashboard enables HR teams to monitor workforce trends, identify attrition 
 
 ---
 
+# 🎬 Dashboard Demo
+
+<p align="center">
+<img src="GIF/dashboard-demo.gif" alt="Dashboard Demo" width="100%">
+</p>
+
+---
+
 # 🛠 Technology Stack
 
 | Category | Technology |
