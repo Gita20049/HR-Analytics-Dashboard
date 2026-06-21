@@ -192,7 +192,6 @@ git clone https://github.com/Gita20049/HR-Analytics-Dashboard.git
 | Data | HR dataset used in the dashboard |
 | PowerBI | Power BI Dashboard (.pbix) |
 | Images | Banner and dashboard screenshots |
-| GIF | Dashboard demonstration GIF |
 | Documentation | Project documentation |
 | DAX | DAX measures and calculations |
 | Assets | Additional project assets |
